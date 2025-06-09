@@ -67,7 +67,7 @@ app/
 
    ```bash
    git clone https://github.com/yourusername/event-management-api.git
-   cd event-management-api
+   cd fast_api_event_management
    ```
 
 2. Create and activate a virtual environment:
